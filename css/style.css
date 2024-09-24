@@ -32,7 +32,7 @@ padding: 30px 0px;
 
 .article .article-card{
   flex: 1 0 30%;
-  background-color: blue;
+  background-color: white;
   min-height: 300px;
   position: relative;
 }
@@ -68,17 +68,20 @@ padding: 30px 0px;
   display: flex;
   align-items: center;
   position: absolute;
-  top: 420px;
+  top: 400px;
   left: 0px;
   color: white;
+
+  
 }
 
 .discount{
-padding: 2px;
+padding: 3px;
 background-color: #ff0000;
-
+margin-right: 5px;
 }
 
 .punto-forte{
-padding: 2px;
+padding: 3px;
+background-color: #008000;
 }
